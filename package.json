@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-jsfuck",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transforms your code into JSFuck",
   "main": "lib/index.js",
   "module": "src/index.js",
